@@ -71,19 +71,20 @@ Our approach combines modern technology with proven methodologies to deliver sol
 
 ---
 
-## 🤝 Our Approach
+<h2 align="center">🤝 Our Approach</h2>
 
 <div align="center">
 
-Client-Centric → Your vision drives every decision. We collaborate closely to ensure your goals are met.  
+**Client-Centric** → Your vision drives every decision. We collaborate closely to ensure your goals are met.  
 
-Agile & Transparent → Regular updates, clear communication, and flexible adaptation to your needs.  
+**Agile & Transparent** → Regular updates, clear communication, and flexible adaptation to your needs.  
 
-Quality Over Speed → We prioritize robust, maintainable solutions that scale with your business.
+**Quality Over Speed** → We prioritize robust, maintainable solutions that scale with your business.
 
 </div>
 
 ---
+
 
 
 ## 📬 Let's Build Something Great
