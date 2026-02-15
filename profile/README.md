@@ -4,9 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0f3460&height=200&section=header&text=AsteGon&fontSize=80&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Transforming%20Context%20Into%20Intelligent%20Action&descAlignY=58&descSize=18&descColor=a0aec0"/>
 
 <!-- Badges -->
-[![Website](https://img.shields.io/badge/🌐_Website-astegontech.vercel.app-e94560?style=for-the-badge&logoColor=white)](https://astegontech.vercel.app/)
-[![Contact](https://img.shields.io/badge/📬_Get_Started-Contact_Us-0f3460?style=for-the-badge)](https://astegontech.vercel.app/#contact)
-[![Projects](https://img.shields.io/badge/🚀_View_Work-Our_Projects-1a1a2e?style=for-the-badge)](https://astegontech.vercel.app/#projects)
+[![Website](https://img.shields.io/badge/🌐_Website-astegon.com-e94560?style=for-the-badge&logoColor=white)](https://astegon.com/)
+[![Contact](https://img.shields.io/badge/📬_Get_Started-Contact_Us-0f3460?style=for-the-badge)](https://astegon.com/#contact)
+
 
 </div>
 
@@ -69,22 +69,6 @@ Our approach combines modern technology with proven methodologies to deliver sol
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
----
-
-## 💰 Simple, Transparent Pricing
-
-<div align="center">
-
-| Plan | Price | Best For |
-|------|-------|----------|
-| 🌱 **Starter** | ₹4,999 / project | Landing pages, simple websites (5–7 days delivery) |
-| 🚀 **Professional** | ₹24,999 / project | Custom web apps with DB, auth & admin dashboard (8–10 weeks) |
-| 🏢 **Enterprise** | Custom | Full-stack, cloud, mobile, APIs & dedicated dev time (3–6 months support) |
-
-</div>
-
 ---
 
 ## 🤝 Our Approach
@@ -103,9 +87,9 @@ Quality Over Speed →    We prioritize robust, maintainable solutions that scal
 
 **Ready to transform your idea into a digital reality?**
 
-[![Get Started](https://img.shields.io/badge/🚀_Start_Your_Project-e94560?style=for-the-badge&logoColor=white)](https://astegontech.vercel.app/#contact)
-[![View Work](https://img.shields.io/badge/📁_View_Our_Work-0f3460?style=for-the-badge)](https://astegontech.vercel.app/#projects)
-[![Pricing](https://img.shields.io/badge/💰_See_Pricing-1a1a2e?style=for-the-badge)](https://astegontech.vercel.app/#pricing)
+[![Get Started](https://img.shields.io/badge/🚀_Start_Your_Project-e94560?style=for-the-badge&logoColor=white)](https://astegon.com/#contact)
+[![View Work](https://img.shields.io/badge/📁_View_Our_Work-0f3460?style=for-the-badge)](https://astegon.com/#projects)
+[![Pricing](https://img.shields.io/badge/💰_See_Pricing-1a1a2e?style=for-the-badge)](https://astegon.com/#pricing)
 
 </div>
 
@@ -116,6 +100,6 @@ Quality Over Speed →    We prioritize robust, maintainable solutions that scal
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0a0a0a&height=120&section=footer"/>
 
 *© 2024 AsteGon Inc. All rights reserved.*
-[Privacy Policy](https://astegontech.vercel.app/privacy-policy) · [Terms of Service](https://astegontech.vercel.app/terms-of-service)
+[Privacy Policy](https://astegon.com/privacy-policy) · [Terms of Service](https://astegon.com/terms-of-service)
 
 </div>
