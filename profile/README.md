@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0f3460&height=200&section=header&text=AsteGon&fontSize=80&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Transforming%20Context%20Into%20Intelligent%20Action&descAlignY=58&descSize=18&descColor=a0aec0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0f3460&height=200&section=header&text=AsteGon&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Transforming%20Context%20Into%20Intelligent%20Action&descAlignY=58&descSize=18&descColor=a0aec0"/>
 
 <!-- Badges -->
 [![Website](https://img.shields.io/badge/🌐_Website-astegon.com-e94560?style=for-the-badge&logoColor=white)](https://astegon.com/)
